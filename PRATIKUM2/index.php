@@ -30,5 +30,5 @@ include "bankcustomer.php";
 </html>
 
 
-<!-- localhost/index.php?nama=egiboy -->
+<!-- localhost/index.php?nama=Ergiboy -->
 <!-- http://uinjambi.ac.id/berita?page=1&search=kuliah&orderBy=id -->
