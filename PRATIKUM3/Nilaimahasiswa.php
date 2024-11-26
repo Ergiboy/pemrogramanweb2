@@ -48,7 +48,7 @@
 
                 echo"<tr>
                 <td>1</td>
-                <td>Ragit Dwi Saputra</td>
+                <td>Ergi aditya/td>
                 <td>" . $mhs1-> gettugas() . "</td>
                 <td>" . $mhs1-> getuts() . "</td>
                 <td>" . $mhs1-> getuas() . "</td>
@@ -57,7 +57,7 @@
 
                 echo"<tr>
                     <td>2</td>
-                    <td>james bond</td>
+                    <td>Alan tole</td>
                     <td>" . $mhs2-> gettugas() . "</td>
                     <td>" . $mhs2-> getuts() . "</td>
                     <td>" . $mhs2-> getuas() . "</td>
@@ -67,7 +67,7 @@
                     
                     echo"<tr>
                     <td>3</td>
-                    <td>Mael lee</td>
+                    <td>dilan/td>
                     <td>" . $mhs3-> gettugas() . "</td>
                     <td>" . $mhs3-> getuts() . "</td>
                     <td>" . $mhs3-> getuas() . "</td>

@@ -24,10 +24,10 @@
 
           include "mahasiswa.php";
 
-          $mahasiswa = new mahasiswa("emely smith");
+          $mahasiswa = new mahasiswa("Ergiboy");
           $mahasiswa ->ucapsalam();
 
-          $mahasiswainggris = new mahasiswaasing("gigit");
+          $mahasiswainggris = new mahasiswaasing("chenboy");
           $mahasiswainggris ->ucapsalam();
  
            ?>
