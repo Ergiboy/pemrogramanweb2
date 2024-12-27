@@ -38,7 +38,15 @@
     <div class="container">
         <div class="row">
             <div class="col-3">
-                sindebar
+                <h2 class="list-group">
+            <div class="list-group">
+  <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
+    Dashboard
+  </a>
+  <a href="<?= base_url('admin/daftar-buku')= ?>" class="List-group-item
+  List-group-item-action">daftarBuku</a>
+  
+</div>group
             </div>
             <div class="">
                 <?= $this->renderSection('main'); ?>

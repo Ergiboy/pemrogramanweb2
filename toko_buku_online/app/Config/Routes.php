@@ -17,6 +17,7 @@ service('auth')->routes($routes);
 $routes->group('admin', ['filter' => ['group:admin']], function($routes){
     $routes->get('dashboard', 'AdminController::dashboard');
     $routes->get('/daftar-buku', 'AdminController::daftarBuku');
+    $routes->get('/daftar-buku', 'AdminController::createBuku');
     $routes->get('/transaksi', 'AdminController::transaksi');
     $routes->get('/pelanggan', 'AdminController::pelanggan');
 
